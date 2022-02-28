@@ -1,0 +1,399 @@
+.top-container {
+  background-color: #ff2e63;
+  position: relative;
+  height: 750px;
+  padding-top: 150px;
+}
+
+.middle-container {
+  position: relative;
+}
+
+.eheart {
+  text-decoration: none;
+}
+
+.punish {
+  height: 500px;
+  width: 400px;
+  position: absolute;
+  left: 0;
+  bottom: 1000px;
+}
+
+.punish-2 {
+  height: 500px;
+  width: 400px;
+  position: absolute;
+  right: 0;
+  bottom: 300px;
+}
+
+.melt {
+  position: absolute;
+  left: 130px ;
+  bottom: 2870px;
+  width: 200px;
+  height: 200px;
+}
+.melt-2 {
+  position: absolute;
+  right: 130px ;
+  bottom: 2870px;
+  width: 200px;
+  height: 200px;
+}
+
+.heart-1 {
+  position: absolute;
+  left: 190px;
+  bottom: 1400px;
+  height: 200px;
+  width: 200px;
+  transform: rotateY(180deg);
+}
+
+.heart-2 {
+  position: absolute;
+  right: 190px;
+  bottom: 2200px;
+  height: 200px;
+  width: 200px;
+}
+
+.heart-3 {
+  position: absolute;
+  right: 190px;
+  bottom: 700px;
+  height: 200px;
+  width: 200px;
+}
+
+.punish-3 {
+  height: 500px;
+  width: 400px;
+  position: absolute;
+  right: 0;
+  bottom: 1800px;
+}
+
+.hr-2 {
+  margin: 130px auto 130px auto;
+}
+
+.bottom-container {
+  background-color: #ff2e63;
+  margin-top: 100px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.mansi {
+  padding-top: 10px;
+}
+
+.skill {
+  font-size: 3rem;
+  font-weight: bolder;
+  text-decoration: none;
+}
+
+.scroll {
+  position: absolute;
+  left: 80px;
+  bottom: 2200px;
+  height: 300px;
+  width: 200px;
+}
+
+.hello {
+  font-size: 4rem;
+  margin: 40px auto 0px auto;
+  text-decoration: none;
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+}
+
+.desc {
+  font-size: 2rem;
+  font-family: "Mochiy Pop P One", sans-serif;
+  color: black;
+  text-decoration: none;
+}
+
+.skill-img-A {
+  width: 30%;
+  float: left;
+  margin-right: 50px;
+}
+
+.skill-img-B {
+  width: 30%;
+  float: right;
+}
+
+.skill-img-C {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-img-D {
+  width: 30%;
+  float: left;
+  margin-right: 0;
+}
+
+.journal {
+  margin: 200px auto 200px auto;
+}
+
+.meditate {
+  margin-top: 200px;
+}
+
+.get-in-touch {
+  font-size: 3rem;
+  text-decoration: none;
+}
+
+.qualities {
+  text-align: center;
+  width: 50%;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: "Pacifico", cursive;
+  font-size: 80px;
+  margin-bottom: 0px;
+}
+
+a {
+  color: #8bdb81;
+  font-family: "Mochiy Pop P One", sans-serif;
+  margin: 10px 20px;
+}
+
+a:hover {
+  color: green;
+}
+
+p {
+  font-family: "Mochiy Pop P One", sans-serif;
+  line-height: 2;
+  margin: 20px auto 80px auto;
+}
+
+h2 {
+  font-family: "Staatliches", cursive;
+  color: #f67280;
+  font-weight: normal;
+  font-size: 2.5rem;
+  text-decoration: underline;
+}
+
+hr {
+  border: dotted 10px #ffc7c7;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+
+h3 {
+  font-family: "Mochiy Pop P One", sans-serif;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+.rev-heart-1 {
+  position: absolute;
+  left: 100px;
+  top: 200px;
+  height: 200px;
+  width: 200px;
+}
+
+.rev-heart-2 {
+  position: absolute;
+  right: 100px;
+  bottom: 200px;
+  height: 200px;
+  width: 200px;
+}
+
+.robot-1 {
+  height: 800px;
+  width: 400px;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+}
+
+.last-p {
+  margin-bottom: 0;
+  font-size: 0.90rem;
+  color: #F7F7F7;
+  padding-top: 20px;
+}
+
+.robot-2 {
+  height: 800px;
+  width: 400px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+}
+
+.tog-ver {
+  height: 250px;
+  width: 150px;
+  border: 3px solid;
+}
+
+.tog-hor {
+  width: 300px;
+  height: 150px;
+  border: 3px solid;
+}
+
+.footer-link {
+  color: #FF9999;
+}
+.footer-link:hover {
+  color: white;
+}
+
+.tog-hor-1 {
+  position: absolute;
+  left: 120px;
+  top: 100px;
+}
+
+.tog-hor-2 {
+  position: absolute;
+  left: 30px;
+  top: 400px;
+}
+
+.tog-hor-3 {
+  position: absolute;
+  left: 300px;
+  top: 350px;
+}
+
+.tog-hor-4 {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.tog-hor-5 {
+  position: absolute;
+  right: 100px;
+  top: 300px;
+}
+
+.tog-ver-1 {
+  position: absolute;
+  top: 300px;
+  left: 90px;
+}
+
+.belowcollage {
+  width: 50%;
+  margin-top: 30px;
+}
+
+.tog-ver-2 {
+  position: absolute;
+  top: 50px;
+  left: 500px;
+}
+
+.tog-ver-3 {
+  position: absolute;
+  top: 250px;
+  right: 480px;
+}
+
+.main-robot {
+  border: 5px solid;
+  border-radius: 100%;
+  height: 310px;
+  width: 310px;
+  position: relative;
+  top: 50px;
+}
+
+.third-eye {
+  border: 8px solid;
+
+  margin-top: 75px;
+  width: 500px;
+  height: 300px;
+}
+
+.btn {
+  background: #FF2E63;
+  background-image: -webkit-linear-gradient(top, #FF2E63, #FC5185);
+  background-image: -moz-linear-gradient(top, #FF2E63, #FC5185);
+  background-image: -ms-linear-gradient(top, #FF2E63, #FC5185);
+  background-image: -o-linear-gradient(top, #FF2E63, #FC5185);
+  background-image: linear-gradient(to bottom, #FF2E63, #FC5185);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.tear-face {
+  position: absolute;
+  left: 100px;
+  bottom: 60px;
+  height: 200px;
+  width: 200px;
+}
+
+.tear-face-2 {
+  position: absolute;
+  right: 100px;
+  bottom: 60px;
+  height: 200px;
+  width: 200px;
+}
+
+.end-p {
+  width: 50%;
+  margin-top: 20px;
+}
+
+.btn:hover {
+  background: #E23E57;
+  background-image: -webkit-linear-gradient(top, #E23E57, #FF9999);
+  background-image: -moz-linear-gradient(top, #E23E57, #FF9999);
+  background-image: -ms-linear-gradient(top, #E23E57, #FF9999);
+  background-image: -o-linear-gradient(top, #E23E57, #FF9999);
+  background-image: linear-gradient(to bottom, #E23E57, #FF9999);
+  text-decoration: none;
+  color: white;
+}
+
+::selection {
+  background-color: lightgreen;
+}
